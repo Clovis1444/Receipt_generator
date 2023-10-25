@@ -1,0 +1,5 @@
+# ninja log v5
+3	1307	7186877842939659	CMakeFiles/Receipt_generator.dir/main.cpp.obj	1519e13230170d70
+1308	1427	7186877843749639	Receipt_generator.exe	5fdaa509ce601653
+3	1391	7186876366132536	CMakeFiles/Receipt_generator.dir/data.cpp.obj	a270a2fa9f254f4d
+4	2182	7186876374013766	CMakeFiles/Receipt_generator.dir/output.cpp.obj	1d44caa392937cc6
